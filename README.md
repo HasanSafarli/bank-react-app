@@ -14,7 +14,7 @@ A responsive React JS application consisting of a stunning hero section, high-qu
 
 What I used to create this website 👉 `React.js` `Tailwind CSS` `Netlify`
 
-<h3>Why is this a good project?</h3>
+<h3>5 Reasons why this project rocks! 🚀</h3>
 
 1. Mobile friendly (Fully responsive)
 2. Modern UX & UI
