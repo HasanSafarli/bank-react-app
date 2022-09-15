@@ -20,4 +20,4 @@ What I used to create this website 👉 `React.js` `Tailwind CSS` `Netlify`
 2. Modern UX & UI
 3. Reusable feature sections
 4. Built by the most in demand technologies like `React.js` `Tailwind CSS`
-5. Clean file and folder structure
+5. Clean file and folder structure 
